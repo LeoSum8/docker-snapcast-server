@@ -1,6 +1,7 @@
 [submodule "snapcast"]
 	path = snapcast
 	url = https://github.com/badaix/snapcast.git
+	branch = 1170-refactor-streamreader
 [submodule "shairport-sync"]
 	path = shairport-sync
 	url = https://github.com/mikebrady/shairport-sync.git
